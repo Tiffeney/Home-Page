@@ -1,0 +1,67 @@
+#container {
+    width: 2000px;
+}
+
+body {
+    background-color: red;
+    position: fixed;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.ln {
+    display: inline-block;
+    font-family: fantasy;
+    position: relative;
+    bottom: 105px;
+    left: 230px;
+    font-size: 230px;
+    text-transform: capitalize;
+    text-decoration: underline white;
+    color: white;
+    padding: 10px;
+
+}
+
+#rambo {
+    background-color:black;
+    height: 400px;
+    width: 100%;
+}
+
+button {
+    margin: 0 auto;
+    position: absolute;
+    left: 32%;
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    font-size: 20px;
+    text-transform: capitalize;
+    /* text-decoration: underline white; */
+}
+
+
+hr {
+    border: 15px solid black;
+    
+}
+
+#date {
+    border: solid;
+    margin: auto 0;
+    position: absolute;
+    left: 60%;
+    top: -25%;
+    color: black;
+    font-family: fantasy;
+    text-transform: capitalize;
+    text-decoration: underline white;
+
+}
+
+h1:hover {
+
+}
